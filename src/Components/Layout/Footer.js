@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function Footer() {
-  return (
-    <div>Footer</div>
-  )
+  return <div className="footer  sticky-bottom ">Footer</div>;
 }
 
-export default Footer
+export default Footer;
